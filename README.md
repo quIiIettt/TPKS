@@ -9,7 +9,7 @@
 
 ![Sample player](pictures/lab1_K561IE8.png)
 
-![Sample player](pictures/lab1_THROTTLE.png)
+![Sample player](pictures/lab1_DROSSEL.png)
 
 
 ## Розширення файлів 
