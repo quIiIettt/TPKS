@@ -6,6 +6,7 @@
 ![Sample player](pictures/lab1_CAPACITOR.png)
 
 ![Sample player](pictures/lab1_NPN.png)
+![Sample player](pictures/lab1_NPN.png)
 
 ![Sample player](pictures/lab1_K561IE8.png)
 
