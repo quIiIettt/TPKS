@@ -3,3 +3,5 @@
 ![Sample player](pictures/lab3.png)
 
 ![Sample player](pictures/lab3_1.png)
+
+![Sample player](pictures/lab3_2.png)
