@@ -6,4 +6,4 @@
 
 ![Sample player](pictures/lab2_K561IE8.png)
 
-![Sample player](pictures/lab2_KT368.png)
+![Sample player](pictures/lab2_KT368_NPN.png)
