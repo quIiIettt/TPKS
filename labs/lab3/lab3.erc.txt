@@ -80,7 +80,7 @@ NET CONNECTIVITY RULES:
 ======================================================================
 
 
-Warning 53 -- Power symbol 0 is connected to net +3,3B at location 244.000mm, 1
+Warning 1 -- Power symbol 0 is connected to net +3,3B at location 244.000mm, 1
 36.000mm, on sheet 55283112.  The net name is ambiguous.
 
 1 warning(s) detected.
