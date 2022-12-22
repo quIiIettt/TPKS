@@ -1,1 +1,1 @@
-![Sample player](TPKS//main/pictures/lab1_CAPACITOR.png)
+![Sample player](pictures/lab1_CAPACITOR.png)
