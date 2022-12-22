@@ -1,5 +1,9 @@
 ## 5st lab
 
+![Sample player](pictures/14.png)
+
+![Sample player](pictures/15.png)
+
 ![Sample player](pictures/1.png)
 
 ![Sample player](pictures/2.png)
