@@ -26,3 +26,5 @@
 
 ![Sample player](pictures/13.png)
 
+![Sample player](pictures/14.png)
+
