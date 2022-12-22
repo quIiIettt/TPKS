@@ -12,6 +12,6 @@
 
 ![Sample player](pictures/chem.png)
 
-![Sample player](pictures/lab2_KT368.png)
+![Sample player](pictures/lab2_KT368_NPN.png)
 
 ![Sample player](pictures/npn.png)
