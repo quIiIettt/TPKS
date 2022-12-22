@@ -1,6 +1,5 @@
 # Computer Systems Design Technology
-
-## Dotsenko D.V. - 10v :)
+### Dotsenko D.V. - 10v
 
 ## Laboratory works
 
