@@ -2,7 +2,7 @@
 
 ## Laboratory works
 
-- [1st lab](labs/lab2)
+- [1st lab](labs/lab1)
 - [2st lab](labs/lab2)
 - [3st lab](labs/lab3)
 - [4st lab](labs/lab4)
