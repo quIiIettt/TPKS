@@ -1,5 +1,7 @@
 # Computer Systems Design Technology
 
+## Dotsenko D.V. - 10v :)
+
 ## Laboratory works
 
 - [1st lab](labs/lab1)
