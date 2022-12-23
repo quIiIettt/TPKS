@@ -1,4 +1,4 @@
-## 4st lab
+## Laboratory work - 4
 
 ![Sample player](pictures/lab4.png)
 
