@@ -3,7 +3,7 @@
 
 ## Laboratory works
 
-- [Laboratory work - 1](labs/lab1)
+- [Laboratory work - 1 :page_facing_up:](labs/lab1) 
 - [Laboratory work - 2](labs/lab2)
 - [Laboratory work - 3](labs/lab3)
 - [Laboratory work - 4](labs/lab4)
