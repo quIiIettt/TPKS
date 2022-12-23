@@ -1,4 +1,4 @@
-## 7st lab
+## Laboratory work - 7
 
 ![Sample player](pictures/kt.png)
 
