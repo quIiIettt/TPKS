@@ -1,7 +1,7 @@
 # Computer Systems Design Technology
-### Dotsenko Dmytro | Variant 10 :white_check_mark:
+### Dotsenko Dmytro | Variant 10 
 
-## Laboratory works
+## Laboratory works - :white_check_mark:
 
 - [Laboratory work - 1](labs/lab1) 
 - [Laboratory work - 2](labs/lab2)
