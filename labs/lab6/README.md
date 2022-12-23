@@ -1,4 +1,4 @@
-## 6st lab
+## Laboratory work - 6
 
 ![Sample player](pictures/katushka.png)
 
