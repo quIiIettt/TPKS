@@ -1,4 +1,4 @@
-## 1st lab
+## Laboratory work - 1
 
 ![Sample player](pictures/lab1_CAPACITOR.png)
 
