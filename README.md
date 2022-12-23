@@ -3,15 +3,15 @@
 
 ## Laboratory works
 
-- [1st lab](labs/lab1)
-- [2st lab](labs/lab2)
-- [3st lab](labs/lab3)
-- [4st lab](labs/lab4)
-- [5st lab](labs/lab5)
-- [6st lab](labs/lab6)
-- [7st lab](labs/lab7)
-- [8st lab](labs/lab8)
-- [9st lab](labs/lab9)
+- [Laboratory work - 1](labs/lab1)
+- [Laboratory work - 2](labs/lab2)
+- [Laboratory work - 3](labs/lab3)
+- [Laboratory work - 4](labs/lab4)
+- [Laboratory work - 5](labs/lab5)
+- [Laboratory work - 6](labs/lab6)
+- [Laboratory work - 7](labs/lab7)
+- [Laboratory work - 8](labs/lab8)
+- [Laboratory work - 9](labs/lab9)
 
 ## File extensions
 * .lib - бібліотека компонентів P-CAD
