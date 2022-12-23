@@ -1,5 +1,5 @@
 # Computer Systems Design Technology
-### Dotsenko Dmytro | Variant 10  :octocat:
+### Dotsenko Dmytro | Variant 10
 
 ## Laboratory works
 
